@@ -147,6 +147,18 @@ height: 174px;
     position: fixed;
     width: 100%;
 }
+}.info.px-2.py-2 {
+    margin: 0;
+}
+.row.row10 div {
+    margin-top: 2rem;
+    padding: 0;
+}
+.info .image {
+   
+    margin-top: -2px !important;
+}
+
 
 
 @media  screen(max-width: 990px){
