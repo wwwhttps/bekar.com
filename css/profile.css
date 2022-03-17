@@ -98,3 +98,15 @@ font-family: poppins;}
     .contact-pp {
         margin-left: 21px;
     }
+
+element.style {
+}
+.navbar-light .navbar-brand {
+    color: rgba(0,0,0,.9);
+}
+.home-logo {
+    color: #E20000 !important;
+    font-size: 2rem;
+    font-weight: 700;
+    font-family: 'Hind Siliguri';
+}
