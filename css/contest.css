@@ -5,6 +5,9 @@
 font-family: 'Poppins', sans-serif;
 
 }
+.info.px-2.py-2 {
+    margin: 0;
+}
 .first-header{
     color: #fff;
     font-size: 83px;
