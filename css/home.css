@@ -9,6 +9,11 @@ h1,h2,h3,h4,.home-logo{
     font-weight: 800;
     
 }
+.row.new {
+    margin-left: 5rem;
+}
+
+
 .home-logo{
     color: #E20000 !important; 
     font-size: 2rem;
