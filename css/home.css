@@ -171,4 +171,25 @@ height: 174px;
       display:none
     }
   }
-  
+  .container {
+    background: rgb(255,255,255);
+    /* background: linear-gradient(180deg, rgba(255,255,255,1) 0%, rgba(249,224,224,1) 100%); */
+    margin: 0;
+}
+.wrrap{
+    width:120%}
+.log-see i {
+    font-size: 12px;
+}
+.log-see a {
+    font-size: 14px;
+}
+
+.works.my-5 {
+    width: 120%;
+}
+.contact {
+    width: 120%;
+}
+
+
