@@ -93,3 +93,13 @@ height: 186px;
     background-color: #E20000;
     color: #ffff;
 }
+.man3{
+    width: 0px;
+    height: 0px;
+    visibility: hidden;
+}
+.man4{
+    width: auto;
+    height: auto;
+    visibility: visible;
+}
